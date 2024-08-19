@@ -4,8 +4,6 @@
 
 This example Shiny for Python application analyzes restaurant tipping, allowing users to filter by bill amount and food service category.
 
-![example streamlit app screenshot](streamlit-income-share.png)
-
 ## Connect Cloud
 
 [Connect Cloud](https://connect.posit.cloud/) makes it simple for you to publish and share data applications and documents in a single cloud environment within minutes. It supports the most popular Python and R frameworks, including:
@@ -16,6 +14,9 @@ This example Shiny for Python application analyzes restaurant tipping, allowing 
 * Quarto with Python and [Quarto with R](https://docs.posit.co/connect-cloud/how-to/r/quarto-r.html)
 * Jupyter Notebooks
 * R Markdown
+
+## Click image and publish to Connect Cloud
+[<img src="https://github.com/user-attachments/assets/b05dd211-173f-4518-93cf-1c6d41f73366">](https://connect.posit.cloud/publish?contentType=streamlit&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-streamlit&sourceRef=main&sourceRefType=branch&primaryFile=app.py&pythonVersion=3.11)
 
 Create a [free account](https://connect.posit.cloud/), visit the [documentation](https://docs.posit.co/connect-cloud/), and join the [community](https://forum.posit.co/c/posit-professional-hosted/posit-connect-cloud/67). 
 
