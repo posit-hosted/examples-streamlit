@@ -2,7 +2,7 @@
 
 # Streamlit Application Example for Posit Connect Cloud Deployment
 
-This example Shiny for Python application analyzes restaurant tipping, allowing users to filter by bill amount and food service category.
+This example Streamlit application shows macroeconomic data that lets you discover how much income the richest 5% of the population has received by country over time.
 
 ## Connect Cloud
 
