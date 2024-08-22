@@ -2,7 +2,7 @@
 
 # Streamlit Application Example for Posit Connect Cloud Deployment
 
-This example Streamlit application shows macroeconomic data that lets you discover how much income the richest 5% of the population has received by country over time.
+This example Streamlit application shows macroeconomic data on how much income the richest 5% of the population has received over time in certain countries.
 
 ## Connect Cloud
 
